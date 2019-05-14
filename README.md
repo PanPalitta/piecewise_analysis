@@ -25,7 +25,7 @@ This is a free software made available under the [GNU GENERAL PUBLIC LICENSE](ht
 
 ## Installation
 
-The script uses piecewise regression library `pwlf.py' by Charles Jekel for 3-segment regression. To install this library, follow the instruction on [Charles's blog] (https://jekel.me/2017/Fit-a-piecewise-linear-function-to-data/) and copy the 'pwlf.py' file to the same folder as `piecewise_analysis.py'.
+The script uses piecewise regression library "pwlf.py" by Charles Jekel for 3-segment regression. To install this library, follow the instruction on [Charles's blog] (https://jekel.me/2017/Fit-a-piecewise-linear-function-to-data/) and copy the "pwlf.py" file to the same folder as "piecewise_analysis.py".
 
 ## Usage
 
